@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\DELL\source\repos\Project8\Project8\FileName.cpp(163,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL\source\repos\Project8\Project8\FileName.cpp(161,12): warning C4101: 'y': unreferenced local variable
+C:\Users\DELL\source\repos\Project8\Project8\FileName.cpp(161,9): warning C4101: 'x': unreferenced local variable
+  Project8.vcxproj -> C:\Users\DELL\source\repos\Project8\x64\Debug\Project8.exe
